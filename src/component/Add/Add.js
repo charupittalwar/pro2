@@ -1,5 +1,6 @@
 const Add =(props) =>{
 
+    console.log("props" , props);
 
 return(
 

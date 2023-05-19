@@ -26,7 +26,7 @@ function App() {
     <h1>my second project</h1>
 
     <div>
-
+     Enter the number: <br></br>
      <input type = "number" value ={inputvalue} onChange={(e) =>{
 
       setInputValue(e.target.value)
@@ -38,7 +38,7 @@ function App() {
      placeholder='Enter the number' /><br></br>
 
 
-
+Enter the number:<br></br>
 <input type = "number" value ={inputvalue2} onChange={(e) =>{
 
 setInputvalue2(e.target.value)
